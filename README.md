@@ -13,3 +13,4 @@ Moreover, the plan will also take into consideration the any sort of change in t
 ----------------------------------------------
 
 More...
+Side Note: Modify it to fit the actual need of an ongoing personal project
