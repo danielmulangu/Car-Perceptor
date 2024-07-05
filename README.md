@@ -16,4 +16,5 @@ More...
 
 Side Note: Modify it to fit the actual need of an ongoing personal project
 The development will track the payment plan of a given car object given its information such as the model, the year, the manufacturer, the total cost, etc...
-After having those information, my program will attempt to create a payment plan and monitor that payment plan. Note that this payment plan will already include the interest, taxes and total cost.
+After having those information, my program will attempt to create a payment plan and monitor that payment plan. Note that this payment plan will already include the interest, taxes and total cost. 
+Side Note: Still need to see how to process that and adjust the program
