@@ -19,4 +19,4 @@ The development will track the payment plan of a given car object given its info
 After having those information, my program will attempt to create a payment plan and monitor that payment plan. Note that this payment plan will already include the interest, taxes and total cost. 
 Side Note: Still need to see how to process that and adjust the program
 
-Side note: Add apis
+Side note: Add apis and
