@@ -21,3 +21,4 @@ Side Note: Still need to see how to process that and adjust the program
 
 Side note: Add APIs and create a database to store different prototypes 
 side note
+Also to be added to the project documentation
