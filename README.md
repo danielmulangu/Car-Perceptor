@@ -24,3 +24,5 @@ side note
 Also to be added to the project documentation is the fact that the whole project will run as a command line program rather than the regular mobile or web application with user interface
 
 ----------------------------------------------
+
+More...
