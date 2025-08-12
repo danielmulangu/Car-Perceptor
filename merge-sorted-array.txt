@@ -1,4 +1,6 @@
-/*This sample program is a script that takes two sorted arrays and merged them */
+/*This sample program is a script that takes two sorted arrays and merged them in a sorted way then later on the program search for the median 
+of the new sorted array.
+*/
 class Solution {
 public:
     double findMedianSortedArrays(vector<int>& nums1, vector<int>& nums2) {
