@@ -8,6 +8,7 @@ public:
         merged.reserve(nums1.size()+nums2.size());
        size_t i=0; 
        size_t j=0;
+    //Sorting and Merge
        while(i<nums1.size() && j< nums2.size()){
         if(nums1[i]<=nums2[j]){
             merged.push_back(nums1[i]);
