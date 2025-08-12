@@ -28,6 +28,7 @@ public:
         merged.push_back(nums2[j]);
         j++;
        }
+        //Finding the median
        size_t n =merged.size();
 
         if(n==0){
