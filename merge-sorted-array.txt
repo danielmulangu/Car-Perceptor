@@ -1,4 +1,4 @@
-/*This sample program contains */
+/*This sample program is a script that takes two sorted arrays and merged them */
 class Solution {
 public:
     double findMedianSortedArrays(vector<int>& nums1, vector<int>& nums2) {
