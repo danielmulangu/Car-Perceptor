@@ -26,3 +26,5 @@ Also to be added to the project documentation is the fact that the whole project
 ----------------------------------------------
 
 More...
+
+Side Node: This repo also contains scripts to program test encountered when prepping for interviews and sharpening skills in C++.
