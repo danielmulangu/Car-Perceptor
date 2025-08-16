@@ -27,4 +27,4 @@ Also to be added to the project documentation is the fact that the whole project
 
 More...
 
-Side Node: This repo also contains scripts to program test encountered when prepping for interviews and sharpening skills in C++. Plus, I might also add some of the scripts in Python for reinforcement learning and machine learning project that i wrote in the capstone.
+Side Node: This repo also contains scripts to program test encountered when prepping for interviews and sharpening skills in C++. Plus, I might also add some of the scripts in Python for reinforcement learning and machine learning project that i wrote in the capstone. The capstone is havving a RL (Reinforcement Learning) agent that learns from an environment, makes decisions, and see how the decisions are impacting the said environment.
